@@ -2,7 +2,7 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 
-//joysticks
+// Joysticks
 const int joy1XPin = A0;
 const int joy1YPin = A1; 
 const int joy2XPin = A2; 
